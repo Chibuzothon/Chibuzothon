@@ -12,6 +12,7 @@
   in a Bioengineering Research project 
 - 🤝 Collaborating with peers to analyze **data pipelines** and optimize **models**  
 - 🛠️ Gaining expertise in **AWS Cloud Technologies**
+- 🌱 I am currently learning GraphQL for automation applications 
   
 
 
