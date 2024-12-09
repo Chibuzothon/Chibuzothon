@@ -14,7 +14,7 @@
   
 
 
-  ### Languages 
+### Languages 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Programming" width="40" height="40"/>
@@ -25,23 +25,18 @@
 </p>
 
 
-  ### Libraries/Frameworks:
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
+### Libraries/Frameworks:
+-Pandas, NumPy, Matplotlib, Scikit-learn
+
 
     
 ### Tools:
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Git-logo.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/JIRA_logo.svg" alt="JIRA" width="40" height="40"/>
-</p>
+-AWS, GIT, JIRA
+
 
 ### Projects:
+
+
 
 
 ⚡**Interests or Hobbies**
