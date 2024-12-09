@@ -60,7 +60,7 @@ Email: marylynuzoukwu@gmail.com
 
 # GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide=prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuzothon&show_icons=true&count_private=true&hide=prs)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Chibuzothon=YOUR_USERNAME&layout=compact&langs_count=6)
