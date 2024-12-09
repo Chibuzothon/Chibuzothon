@@ -1,5 +1,5 @@
 ## Hi, my name is Marylyn Uzoukwu  👋
-<hr>
+
 # I am an Information Science student at the University of Maryland
 <!--
 
