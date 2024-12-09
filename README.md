@@ -7,7 +7,7 @@
   
 
 🌱 **Current Focus:**  
-- 📈 Predicting the cost of auto insurance claims (ML project with **Allstate**)
+- 📈 Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
 - 🧬 Undergraduate Research Assistant: Applying **Machine Learning** to enhance 3D bioprinting designs
   in a Bioengineering Research project 
 - 🤝 Collaborating with peers to analyze **data pipelines** and optimize **models**  
@@ -48,6 +48,7 @@
 
 
 ### Projects:
+https://github.com/Chibuzothon
 
 
 
