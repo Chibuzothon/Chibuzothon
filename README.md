@@ -58,6 +58,10 @@ Email: marylynuzoukwu@gmail.com
 
 💬 Ask me about Data Science, Machine Learning, Python, and creating more equitable tech solutions.
 
+# GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chibuzothon&show_icons=true&count_private=true&hide=prs)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Chibuzothon=Chibuzothon&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chibuzothon&layout=compact&langs_count=6)
+
