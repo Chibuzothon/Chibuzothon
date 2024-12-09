@@ -50,7 +50,8 @@
   
 
  📫 **Connect with Me:**  
-[LinkedIn](https://linkedin.com/in/yourprofile)  [Email](mailto:marylynuzoukwu@gmail.com)
+[LinkedIn](https://linkedin.com/in/yourprofile) 
+Email: marylynuzoukwu@gmail.com
 
 💬 Ask me about Data Science, Machine Learning, Python, and creating more equitable tech solutions.
 
