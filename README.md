@@ -47,12 +47,6 @@
 -AWS, GIT, JIRA
 
 
-### Projects:
-https://github.com/Chibuzothon
-
-
-
-
 ⚡**Interests or Hobbies**
 -Going to the gym and going on runs
 -Baking desserts
@@ -63,6 +57,3 @@ Linkedin: www.linkedin.com/in/marylyn-uzoukwu
 Email: marylynuzoukwu@gmail.com
 
 💬 Ask me about Data Science, Machine Learning, Python, and creating more equitable tech solutions.
-
-
-
