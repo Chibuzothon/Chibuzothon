@@ -13,7 +13,7 @@
 - 🤝 Collaborating with peers to analyze **data pipelines** and optimize **models**  
 - 🛠️ Gaining expertise in **AWS Cloud Technologies**
 - 🌱 I am currently learning GraphQL for automation applications 
-- 💻 I am currently learning about front-end and backend development for full-stack engineering applications
+- 💻 I am currently learning about front-end and backend development for full-stack software engineering applications
     
 
 
