@@ -41,7 +41,7 @@
 
 
 ### Libraries/Frameworks:
--Pandas, NumPy, Matplotlib, Scikit-learn
+-Pandas, NumPy, Matplotlib, Scikit-learn, Node.js
 
 
     
