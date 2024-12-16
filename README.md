@@ -50,8 +50,8 @@
 
 
 ⚡**Interests or Hobbies**
--Going to the gym and going on runs
--Baking desserts
+- Going to the gym and going on runs
+- Baking desserts
   
 
  📫 **Connect with Me:**  
