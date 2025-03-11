@@ -17,8 +17,11 @@
 - 💻 I am currently learning about front-end and backend development for **full-stack software engineering** applications
 
 **Past Projects**
-- 📈 Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
-- ✈️ Dynamic Full Stack Web Application for Pilots that provides real-time weather and environmental data
+- 📈 [Predicting the cost of auto insurance claims](https://github.com/Chibuzothon/Allstate1B)
+- Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
+  
+- ✈️ A Web App providing real-time weather and environmental data for pilots 
+  [Dynamic Full Stack Web Application for Pilots](https://github.com/Chibuzothon/INST-377-Final-Project-)
 - 🌍 Life Expectancy Machine Learning Model using the World Happiness Report
 [Life Expectancy Model](https://github.com/Chibuzothon/Cornell-ML-Final-Project)
   
