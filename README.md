@@ -7,8 +7,8 @@
   
 
 🌱 **Current Focus:**  
-- Developing a computer vision model to enhance inclusivity in AI dermatology
-- Competing in a Kaggle competition hosted by the Algorithmic Justice League to address AI disparities in dermatology
+- 🤖 Developing a computer vision model to enhance inclusivity in AI dermatology
+- 🏆 Competing in a Kaggle competition hosted by the Algorithmic Justice League to address AI disparities in dermatology
 - 📈 Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
 - 🧬 Undergraduate Research Assistant: Applying **Machine Learning** to enhance 3D bioprinting designs
   in a Bioengineering Research project 
