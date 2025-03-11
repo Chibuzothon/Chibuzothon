@@ -9,14 +9,18 @@
 🌱 **Current Focus:**  
 - 🤖 Developing a computer vision model to enhance inclusivity in AI dermatology
 - 🏆 Competing in a Kaggle competition hosted by the Algorithmic Justice League to address AI disparities in dermatology
-- 📈 Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
 - 🧬 Undergraduate Research Assistant: Applying **Machine Learning** to enhance 3D bioprinting designs
   in a Bioengineering Research project 
 - 🤝 Collaborating with peers to analyze **data pipelines** and optimize **models**  
 - 🛠️ Gaining expertise in **AWS Cloud Technologies**
 - 🌱 I am currently learning GraphQL for **automation** applications
 - 💻 I am currently learning about front-end and backend development for **full-stack software engineering** applications
-    
+
+**Past Projects**
+- 📈 Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
+- ✈️ Dynamic Full Stack Web Application for Pilots that provides real-time weather and environmental data
+- 🌍 Life Expectancy Machine Learning Model using the World Happiness Report
+  
 
 
 ### Languages 
