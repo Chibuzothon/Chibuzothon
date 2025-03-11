@@ -16,7 +16,7 @@
 - 🌱 I am currently learning GraphQL for **automation** applications
 - 💻 I am currently learning about front-end and backend development for **full-stack software engineering** applications
 
-**Past Projects**
+**Featured Projects**
 - 📈 [Predicting the cost of auto insurance claims](https://github.com/Chibuzothon/Allstate1B) (Machine Learning project with **Allstate**)
 - ✈️ [A Web App providing real-time weather and environmental data for pilots](https://github.com/Chibuzothon/INST-377-Final-Project-)
 - 🌍 [A model predicting life expectancy based on the World Happiness Report](https://github.com/Chibuzothon/Cornell-ML-Final-Project)
