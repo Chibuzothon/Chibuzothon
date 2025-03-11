@@ -5,7 +5,7 @@
 - 💻 Passionate about **Machine Learning** and **Data Science**  
 - 🚀 Exploring innovative ways to create **equitable tech solutions**
   
-***Projects**
+***Projects***
 🌱 **Current Focus:**  
 - 🤖 Developing a **computer vision** model to enhance **inclusivity** in **AI dermatology**
 - 🏆 Competing in a Kaggle competition hosted by the **Algorithmic Justice League** to address **AI disparities** in dermatology
@@ -18,7 +18,7 @@
 - ✈️ [A Web App providing real-time weather and environmental data for pilots](https://github.com/Chibuzothon/INST-377-Final-Project-)
 - 🌍 [A model predicting life expectancy based on the World Happiness Report](https://github.com/Chibuzothon/Cornell-ML-Final-Project)
 
-***Skills**
+***Skills***
 🌱 **Skill Development:**
 -🛠️ Gaining expertise in AWS Cloud Technologies
 -🌱 Learning GraphQL for automation applications
