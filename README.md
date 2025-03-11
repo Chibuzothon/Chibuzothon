@@ -20,7 +20,7 @@
 - 📈 Predicting the cost of auto insurance claims (Machine Learning project with **Allstate**)
 - ✈️ Dynamic Full Stack Web Application for Pilots that provides real-time weather and environmental data
 - 🌍 Life Expectancy Machine Learning Model using the World Happiness Report
-  [Life Expectancy Model] (https://github.com/Chibuzothon/Cornell-ML-Final-Project)
+[Life Expectancy Model] (https://github.com/Chibuzothon/Cornell-ML-Final-Project)
   
   
 
