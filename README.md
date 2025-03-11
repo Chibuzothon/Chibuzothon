@@ -19,7 +19,7 @@
 **Past Projects**
 - 📈 [Predicting the cost of auto insurance claims](https://github.com/Chibuzothon/Allstate1B) (Machine Learning project with **Allstate**)
 - ✈️ [A Web App providing real-time weather and environmental data for pilots](https://github.com/Chibuzothon/INST-377-Final-Project-)
-- 🌍 [Life Expectancy Machine Learning Model using the World Happiness Report](https://github.com/Chibuzothon/Cornell-ML-Final-Project)
+- 🌍 [A model predicting life expectancy based on the World Happiness Report](https://github.com/Chibuzothon/Cornell-ML-Final-Project)
   
   
 ### Languages 
