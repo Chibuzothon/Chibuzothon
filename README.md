@@ -14,6 +14,7 @@
 - 🤝 Collaborating with peers to analyze **data pipelines** and optimize **models**  
 
 **Featured Projects:**
+- 🤖 [Using computer vision to classify different skin conditions across various skin tones] (https://github.com/AI-for-Dermatology-Team-Ceramide/Dermatology-AI/blob/main/README.md)
 - 📈 [Predicting the cost of auto insurance claims](https://github.com/Chibuzothon/Allstate1B) (Machine Learning project with **Allstate**)
 - ✈️ [A Web App providing real-time weather and environmental data for pilots](https://github.com/Chibuzothon/INST-377-Final-Project-)
 - 🌍 [A model predicting life expectancy based on the World Happiness Report](https://github.com/Chibuzothon/Cornell-ML-Final-Project)
