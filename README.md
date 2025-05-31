@@ -1,7 +1,7 @@
 ## Hi there! I'm Marylyn Uzoukwu  👋
 
 🌟 **About Me:**  
-- 🎓 Senior majoring in **Information Science** (Data Science track)  
+- 🎓 Bachelor of Science in **Information Science** (Data Science track)  
 - 💻 Passionate about **Machine Learning** and **Data Science**  
 - 🚀 Exploring innovative ways to create **equitable tech solutions**
   
